@@ -10,6 +10,7 @@ Start off by forking this repository. In your README, write a design doc to outl
 
 #### Introduction
 - What motivates your project?
+I watched several Chinese and Japanese animations. I feel the weather can be scratched very beautifully in those animations. However, I feel that the weather was built by live2D. I want to try to use Houdini to achieve those effects. 
 
 #### Goal
 - What do you intend to achieve with this project?
